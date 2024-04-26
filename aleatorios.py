@@ -15,7 +15,7 @@ import random
 lista_nums = [706, 965, 761, 321, 604, 907,
                 700, 493, 29, 716, 3, 777, 807,
                 136, 333, 955, 654, 252, 951,
-                154]
+                154,434,4322,5345,44]
 # sorteado = random.choice(lista_nums)
 # print(sorteado)
 
