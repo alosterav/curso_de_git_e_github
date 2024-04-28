@@ -1,0 +1,6 @@
+# ignorando arquivos no monitoramento do git
+progit.pdf
+
+# ignorando arquivos com uma determinada extensão
+
+*.py
